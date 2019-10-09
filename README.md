@@ -15,3 +15,6 @@ when a sufficient amount of sound samples were collected, canō program can reco
  * [Junyeong](https://github.com/junyeong335) (Programmer)
  * [Ihyun]() (Programmer)
 
+## Youtube
+
+  [Youtube link](https://youtu.be/B15IEIpESII)

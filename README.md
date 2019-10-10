@@ -12,7 +12,7 @@ when a sufficient amount of sound samples were collected, canō program can reco
 ## Contributors
 
  * [Gordon](https://github.com/gordonsis) (Programmer)
- * [Junyeong](https://github.com/junyeong335) (Programmer)
+ * [Royce](https://github.com/junyeong335) (Programmer)
  * [Ihyun]() (Programmer)
 
 ## Youtube

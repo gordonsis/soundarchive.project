@@ -13,7 +13,7 @@ when a sufficient amount of sound samples were collected, canō program can reco
 
  * [Gordon](https://github.com/gordonsis) (Programmer)
  * [Royce](https://github.com/royce169) (Programmer)
- * [Ihyun]() (Programmer)
+ * [Ihyun](https://github.com/namihyun00941) (Programmer)
 
 ## Youtube
 
